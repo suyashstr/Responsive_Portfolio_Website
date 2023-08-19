@@ -1,4 +1,4 @@
-# LiveLik to my website:-
+# Live Link to my website:-
 https://suyashstr.github.io/Responsive_Portfolio_Website/
 
 # Responsive_Portfolio_Website
